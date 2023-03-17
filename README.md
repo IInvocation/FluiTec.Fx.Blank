@@ -4,8 +4,8 @@
 
 ## worflows ##
 ### build ###
-#### master ####
-<build badge master>
+#### main ####
+<build badge main>
 #### develop ####
 <build badge develop>
 
