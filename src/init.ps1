@@ -11,5 +11,3 @@ mkdir -p 'tests\UnitTests'
 dotnet new mstest -n $prjTestName -o $prjLoc
 dotnet sln add $prjName
 dotnet sln add $prjLoc
-
-mv ..\.gitlab-ci.yml.init ..\.gitlab-ci.yml
