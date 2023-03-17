@@ -1,5 +1,5 @@
-1) Replace <ProjectName> with the name of your new project
-2) Add a <ProjectDescription>
+1) Replace ProjectName <ProjectName> with the name of your new project
+2) Add a ProjectDescription <ProjectDescription>
 
 # FluiTec.Fx.<ProjectName> #
 <ProjectDescription>
