@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       version-fragment:
-        description: 'Version-Fragment to increment'
+        description: 'Version-Fragment to increment (major | feature | bug | alpha | beta | pre | rc)'
         default: 'bug'
         required: true
 
